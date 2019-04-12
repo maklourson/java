@@ -1,0 +1,36 @@
+# Compiled class file
+<<<<<<< HEAD
+=======
+
+>>>>>>> ec6ba0cd0b0ca25b5bcee17efadc57affcf01be9
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+<<<<<<< HEAD
+=======
+
+>>>>>>> ec6ba0cd0b0ca25b5bcee17efadc57affcf01be9
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ec6ba0cd0b0ca25b5bcee17efadc57affcf01be9
+
